@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BJJ_App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Reference">Reference</string>
+    <string name="training_tracker">Training Tracker</string>
+    <string name="help_description">Tap Reference to bring up a list of moves and positions. Tap Training Tracker to track your practice.</string>
+    <string name="title_activity_reference__main">Reference_Main</string>
+
+</resources>
